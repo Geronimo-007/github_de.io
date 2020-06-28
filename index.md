@@ -9,5 +9,4 @@ Dennoch ist er nicht so schlimm wie Esther.
 * jung
 * hinterhältig
 * musikverliebt
-* leise
-* laut
+* leise und leise
